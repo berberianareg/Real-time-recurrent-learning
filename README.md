@@ -66,6 +66,6 @@ see requirements.txt
 - Twitter - [@berberianareg](https://twitter.com/BerberianNareg)
 - LinkedIn - [Nareg Berberian](https://www.linkedin.com/in/nareg-berberian-phd-ab6759b9/)
 
-[Back to the Top](#real-time-recurrent-learning-(1989))
+[Back to the Top](#real-time-recurrent-learning-1989)
 
 
